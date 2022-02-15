@@ -1,0 +1,2 @@
+# sgoneapp
+Ionic project 
